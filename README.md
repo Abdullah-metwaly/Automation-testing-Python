@@ -70,3 +70,11 @@ in order to run the features file you need to call the main file followed by the
 ```sh
 python main.py search
 ```
+## Features options 
+  all
+  contact-us
+  invalid-sign-up
+  prdouct-with-options
+  purchasing-item
+  search
+  valid-sign-up
