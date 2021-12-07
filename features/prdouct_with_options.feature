@@ -13,3 +13,5 @@ Feature: purchasing product with extra options
     Examples:
       |    parameter   | number | size | color |
       | Casual Dresses |  2     |  M   | White |
+      | Evening Dresses|  2     |  L   | Black |
+      | Summere Dresses|  2     |  S   | White |

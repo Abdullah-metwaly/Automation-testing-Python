@@ -11,4 +11,5 @@ Feature: Tesint the search input main page
       | parameter               | msg                                                                                        |
       |  invalid searchdasdsdd  | No results were found for your search "invalid searchdasdsdd"                              |
       |                         | Please enter a search keyword                                                              |
+      |  phkjhekjhj jdhkjh      | No results were found for your search "invalid searchdasdsdd"                              |
 

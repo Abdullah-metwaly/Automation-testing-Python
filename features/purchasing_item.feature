@@ -11,5 +11,6 @@ Feature: purchasing item with count
     Then The item count changes to "<number>"
     Examples:
       | parameter              | number |
-      | Printed Summer Dress   |  3     |
-
+      | Printed Summer Dress   |  3     | 
+      | Printed Summer Dress   |  5     |
+      | Printed Summer Dress   |  8     |

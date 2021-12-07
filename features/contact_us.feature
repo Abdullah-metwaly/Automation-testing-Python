@@ -27,3 +27,5 @@ Feature: AutomationPractice contact us page test
     Examples:
       | parameter         | msg      | subject          | output                                          |
       | invalid.email.com | Hi there!| customer         | Invalid email address.                          |
+      | inval@ail         | Hi there!| customer         | Invalid email address.                          |
+      | _inalid@email.com | Hi there!| customer         | Invalid email address.                          |

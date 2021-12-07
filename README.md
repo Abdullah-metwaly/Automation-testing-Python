@@ -26,7 +26,6 @@ In order to run the project you need to make sure of having the needed tools
  - selenium 
  - webdriver-manage
  - click
- - PyHamcrest
  - parser
  
 
